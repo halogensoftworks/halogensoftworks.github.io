@@ -1,0 +1,224 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  width: 660px;
+  margin: 50px auto;
+
+  font-family: -apple-system, BlinkMacSystemFont, /* MacOS and iOS */
+               'avenir next', avenir, /* MacOS and iOS */
+               'Segoe UI', /* Windows */
+               'lucida grande', /* Older MacOS */
+               'helvetica neue', helvetica, /* Older MacOS */
+               'Fira Sans', /* Firefox OS */
+               roboto, noto, /* Google stuff */
+               'Droid Sans', /* Old Google stuff */
+               cantarell, oxygen, ubuntu, /* Linux stuff */
+               'franklin gothic medium', 'century gothic', /* Windows stuff */
+               'Liberation Sans', /* Linux */
+               sans-serif; /* Everything else */
+
+
+}
+
+::selection {
+  background: purple;
+  color: white;
+  fill: white;
+  filter: brightness(1);
+}
+
+
+.logo {
+  vertical-align: bottom;
+  margin-right: 10px;
+  margin-left: -16px;
+}
+
+
+
+h1 {
+  margin-bottom: 0;
+}
+
+h2 {
+  margin: 0;
+}
+
+
+video {
+  width: 100%;
+}
+
+
+ul {
+  margin: 0;
+  padding-left: 1.5em;
+}
+
+
+li {
+  font-size: 22px;
+  line-height: 1.8;
+}
+
+/* Space hover effect! */
+.space {
+  filter: brightness(0);
+  transition: filter 250ms ease-in-out;
+}
+
+h1:hover .space {
+  filter: brightness(1);
+}
+
+h1:hover .space g,
+h1:hover .space text {
+  fill: url(#space);
+}
+
+.highlights {
+  display: flex;
+  align-content: space-between;
+}
+
+.item {
+  flex-grow: 1;
+  flex-basis: 0;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding-right: 35px;
+}
+
+.item .img-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 120px;
+}
+
+.img-container img#badges {
+  width: 50%;
+}
+
+.img-container img#menubar {
+  width: 60%;
+}
+
+.img-container img#gradient {
+  width: 80%;
+}
+
+.item:last-child {
+  padding-right: 0;
+}
+
+.item h3 {
+  text-align: center;
+}
+
+.item p {
+  margin: 0;
+  font-size: 14px;
+  text-align: center;
+}
+
+.download {
+  margin-bottom: 40px;
+  text-align: center;
+}
+
+footer {
+  display: flex;
+  justify-content: space-between;
+  font-size: 12px;
+  color: #666;
+  margin-bottom: 40px;
+}
+
+footer a {
+  color: #777;
+}
+
+footer a:hover {
+  color: purple;
+}
+
+hr {
+  background: #ddd;
+  height: 1px;
+  border: none;
+  box-shadow: none;
+}
+
+video, hr, .tagline {
+  margin: 50px 0;
+}
+
+.tagline {
+  text-align: center;
+  margin-top: 0;
+  font-size: 20px;
+}
+
+hr.footer {
+  margin-bottom: 10px;
+}
+
+/* */
+
+@media screen and (max-width: 659px) {
+  body {
+    width: 100%;
+    margin: 0;
+    padding: 15px;
+  }
+
+  video {
+    margin-bottom: 30px;
+  }
+
+  li {
+    margin: 20px 0;
+    font-size: 20px;
+  }
+
+  .highlights {
+    flex-direction: column;
+  }
+
+  .item {
+    flex-basis: auto;
+    padding: 0;
+    margin-bottom: 50px;
+  }
+
+  .item .img-container {
+    height: auto;
+  }
+
+  .img-container img#badges {
+    width: 30%;
+  }
+
+  .img-container img#menubar {
+    width: 33%;
+  }
+
+  .img-container img#gradient {
+    width: 50%;
+  }
+
+
+  .item h3 {
+    font-size: 24px;
+  }
+
+  .item p {
+    font-size: 18px;
+    margin: 0 20px;
+  }
+}

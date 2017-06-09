@@ -1,0 +1,18 @@
+<svg width="52" height="52" viewBox="0 0 52 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>icon-tight</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(121 16)">
+<g id="icon-tight">
+<g id="Rectangle">
+<use xlink:href="#path0_stroke" transform="translate(-115.4 -10.4)" fill="#FFFFFF"/>
+</g>
+<g id="Subtraction">
+<use xlink:href="#path1_fill" transform="translate(-111.2 -6.2)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_stroke" d="M 8.4 1.4L 36.4 1.4L 36.4 -1.4L 8.4 -1.4L 8.4 1.4ZM 43.4 8.4L 43.4 36.4L 46.2 36.4L 46.2 8.4L 43.4 8.4ZM 36.4 43.4L 8.4 43.4L 8.4 46.2L 36.4 46.2L 36.4 43.4ZM 1.4 36.4L 1.4 8.4L -1.4 8.4L -1.4 36.4L 1.4 36.4ZM 8.4 -1.4C 2.98761 -1.4 -1.4 2.98761 -1.4 8.4L 1.4 8.4C 1.4 4.53401 4.53401 1.4 8.4 1.4L 8.4 -1.4ZM 36.4 1.4C 40.266 1.4 43.4 4.53401 43.4 8.4L 46.2 8.4C 46.2 2.98761 41.8124 -1.4 36.4 -1.4L 36.4 1.4ZM 43.4 36.4C 43.4 40.266 40.266 43.4 36.4 43.4L 36.4 46.2C 41.8124 46.2 46.2 41.8124 46.2 36.4L 43.4 36.4ZM 8.4 43.4C 4.53401 43.4 1.4 40.266 1.4 36.4L -1.4 36.4C -1.4 41.8124 2.98761 46.2 8.4 46.2L 8.4 43.4Z"/>
+<path id="path1_fill" fill-rule="evenodd" d="M 4.2 0C 1.8804 0 0 1.8804 0 4.2L 0 32.2C 0 33.3598 0.470093 34.4098 1.23015 35.1698L 35.1698 1.23015C 34.4098 0.470093 33.3598 0 32.2 0L 4.2 0Z"/>
+</defs>
+</svg>

@@ -1,0 +1,133 @@
+<svg width="91" height="90" viewBox="0 0 91 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Menubar</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-18 113)">
+<g id="Menubar">
+<g id="Group">
+<g id="Frame">
+<use xlink:href="#path0_fill" transform="translate(18 -106)" fill="#F6F6F6"/>
+<mask id="mask0_outline_ins">
+<use xlink:href="#path0_fill" fill="white" transform="translate(18 -106)"/>
+</mask>
+<g mask="url(#mask0_outline_ins)">
+<use xlink:href="#path1_stroke_2x" transform="translate(18 -106)" fill="#DDDDDD"/>
+</g>
+</g>
+<g id="Inputs">
+<g id="Rectangle 6">
+<use xlink:href="#path2_fill" transform="translate(24 -98)" fill="#DDDDDD"/>
+</g>
+<g id="Rectangle 6">
+<use xlink:href="#path2_fill" transform="translate(24 -88)" fill="#DDDDDD"/>
+</g>
+</g>
+<g id="Jabber">
+<g id="Rectangle 9">
+<use xlink:href="#path3_fill" transform="translate(46 -67)" fill="#DDDDDD"/>
+</g>
+<g id="Rectangle 9">
+<use xlink:href="#path4_fill" transform="translate(69.2 -67)" fill="#DDDDDD"/>
+</g>
+<g id="Rectangle 9">
+<use xlink:href="#path5_fill" transform="translate(81.96 -67)" fill="#DDDDDD"/>
+</g>
+<g id="Rectangle 9">
+<use xlink:href="#path6_fill" transform="translate(46 -62)" fill="#DDDDDD"/>
+</g>
+<g id="Rectangle 9">
+<use xlink:href="#path3_fill" transform="translate(66.88 -62)" fill="#DDDDDD"/>
+</g>
+<g id="Rectangle 9">
+<use xlink:href="#path7_fill" transform="translate(46 -45)" fill="#DDDDDD"/>
+</g>
+<g id="Rectangle 9">
+<use xlink:href="#path5_fill" transform="translate(46 -40)" fill="#DDDDDD"/>
+</g>
+<g id="Rectangle 9">
+<use xlink:href="#path7_fill" transform="translate(71.52 -40)" fill="#DDDDDD"/>
+</g>
+<g id="Rectangle 9">
+<use xlink:href="#path8_fill" transform="translate(88.92 -40)" fill="#DDDDDD"/>
+</g>
+<g id="Rectangle 9">
+<use xlink:href="#path9_fill" transform="translate(63.4 -45)" fill="#DDDDDD"/>
+</g>
+<g id="Rectangle 9">
+<use xlink:href="#path7_fill" transform="translate(75 -45)" fill="#DDDDDD"/>
+</g>
+<g id="Rectangle 9">
+<use xlink:href="#path10_fill" transform="translate(92.4 -45)" fill="#DDDDDD"/>
+</g>
+<g id="Rectangle 9">
+<use xlink:href="#path7_fill" transform="translate(90.08 -62)" fill="#DDDDDD"/>
+</g>
+</g>
+<g id="Line">
+<use xlink:href="#path11_stroke" transform="translate(24 -74)" fill="#CCCCCC"/>
+</g>
+</g>
+<g id="Rectangle 4">
+<mask id="mask1_outline_ins">
+<use xlink:href="#path12_fill" fill="white" transform="translate(24 -67)"/>
+</mask>
+<g mask="url(#mask1_outline_ins)">
+<use xlink:href="#path13_stroke_2x" transform="translate(24 -67)" fill="#CCCCCC"/>
+</g>
+</g>
+<g id="Rectangle 4">
+<mask id="mask2_outline_ins">
+<use xlink:href="#path12_fill" fill="white" transform="translate(24 -45)"/>
+</mask>
+<g mask="url(#mask2_outline_ins)">
+<use xlink:href="#path13_stroke_2x" transform="translate(24 -45)" fill="#CCCCCC"/>
+</g>
+</g>
+<g id="Rectangle 4">
+<mask id="mask3_outline_ins">
+<use xlink:href="#path12_fill" fill="white" transform="translate(88 -98)"/>
+</mask>
+<g mask="url(#mask3_outline_ins)">
+<use xlink:href="#path13_stroke_2x" transform="translate(88 -98)" fill="#CCCCCC"/>
+</g>
+</g>
+<g id="Bar">
+<use xlink:href="#path14_fill" transform="translate(18 -113)" fill="#444444"/>
+</g>
+<g id="Icons">
+<g id="Polygon 2">
+<use xlink:href="#path15_fill" transform="translate(55 -111)" fill="#FFFFFF"/>
+</g>
+<g id="Rectangle 8">
+<use xlink:href="#path16_fill" transform="translate(59 -113)" fill="#619FEE"/>
+</g>
+<g id="Rectangle 7">
+<use xlink:href="#path17_fill" transform="translate(61 -111)" fill="#FFFFFF"/>
+</g>
+<g id="Ellipse 2">
+<use xlink:href="#path18_fill" transform="translate(67 -111)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 0 3C 0 1.34315 1.34315 0 3 0L 88 0C 89.6569 0 91 1.34315 91 3L 91 80C 91 81.6569 89.6569 83 88 83L 3 83C 1.34315 83 0 81.6569 0 80L 0 3Z"/>
+<path id="path1_stroke_2x" d="M 3 1L 88 1L 88 -1L 3 -1L 3 1ZM 90 3L 90 80L 92 80L 92 3L 90 3ZM 88 82L 3 82L 3 84L 88 84L 88 82ZM 1 80L 1 3L -1 3L -1 80L 1 80ZM 3 -1C 0.790861 -1 -1 0.790861 -1 3L 1 3C 1 1.89543 1.89543 1 3 1L 3 -1ZM 88 1C 89.1046 1 90 1.89543 90 3L 92 3C 92 0.790861 90.2091 -1 88 -1L 88 1ZM 90 80C 90 81.1046 89.1046 82 88 82L 88 84C 90.2091 84 92 82.2091 92 80L 90 80ZM 3 82C 1.89543 82 1 81.1046 1 80L -1 80C -1 82.2091 0.790861 84 3 84L 3 82Z"/>
+<path id="path2_fill" d="M 0 0L 51 0L 51 6L 0 6L 0 0Z"/>
+<path id="path3_fill" d="M 0 0L 19.72 0L 19.72 3L 0 3L 0 0Z"/>
+<path id="path4_fill" d="M 0 0L 9.28 0L 9.28 3L 0 3L 0 0Z"/>
+<path id="path5_fill" d="M 0 0L 22.04 0L 22.04 3L 0 3L 0 0Z"/>
+<path id="path6_fill" d="M 0 0L 17.4 0L 17.4 3L 0 3L 0 0Z"/>
+<path id="path7_fill" d="M 0 0L 13.92 0L 13.92 3L 0 3L 0 0Z"/>
+<path id="path8_fill" d="M 0 0L 15.08 0L 15.08 3L 0 3L 0 0Z"/>
+<path id="path9_fill" d="M 0 0L 8.12 0L 8.12 3L 0 3L 0 0Z"/>
+<path id="path10_fill" d="M 0 0L 11.6 0L 11.6 3L 0 3L 0 0Z"/>
+<path id="path11_stroke" d="M 0 0L 80 0L 80 -1L 0 -1L 0 0Z"/>
+<path id="path12_fill" d="M 0 0L 16 0L 16 16L 0 16L 0 0Z"/>
+<path id="path13_stroke_2x" d="M 0 0L 0 -1L -1 -1L -1 0L 0 0ZM 16 0L 17 0L 17 -1L 16 -1L 16 0ZM 16 16L 16 17L 17 17L 17 16L 16 16ZM 0 16L -1 16L -1 17L 0 17L 0 16ZM 0 1L 16 1L 16 -1L 0 -1L 0 1ZM 15 0L 15 16L 17 16L 17 0L 15 0ZM 16 15L 0 15L 0 17L 16 17L 16 15ZM 1 16L 1 0L -1 0L -1 16L 1 16Z"/>
+<path id="path14_fill" d="M 0 0L 91 0L 91 7L 0 7L 0 0Z"/>
+<path id="path15_fill" d="M 1.5 0L 3 3L 0 3L 1.5 0Z"/>
+<path id="path16_fill" d="M 0 0L 7 0L 7 7L 0 7L 0 0Z"/>
+<path id="path17_fill" d="M 0 0L 3 0L 3 3L 0 3L 0 0Z"/>
+<path id="path18_fill" d="M 3 1.5C 3 2.32843 2.32843 3 1.5 3C 0.671573 3 0 2.32843 0 1.5C 0 0.671573 0.671573 0 1.5 0C 2.32843 0 3 0.671573 3 1.5Z"/>
+</defs>
+</svg>
