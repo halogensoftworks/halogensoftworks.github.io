@@ -168,6 +168,19 @@ hr.footer {
   margin-bottom: 10px;
 }
 
+#support {
+  border: 2px dashed #000;
+  line-height: 1.4;
+  background: #eee;
+  padding: 0 20px;
+  font-size: 20px;
+  margin-top: 30px;
+}
+
+#support a {
+  color: purple;
+}
+
 /* */
 
 @media screen and (max-width: 659px) {
