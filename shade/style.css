@@ -3,7 +3,7 @@
 }
 
 body {
-  width: 660px;
+  width: 600px;
   margin: 50px auto;
 
   font-family: -apple-system, BlinkMacSystemFont, /* MacOS and iOS */
@@ -183,7 +183,7 @@ hr.footer {
 
 /* */
 
-@media screen and (max-width: 659px) {
+@media screen and (max-width: 599px) {
   body {
     width: 100%;
     margin: 0;
