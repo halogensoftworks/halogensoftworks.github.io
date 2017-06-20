@@ -39,7 +39,13 @@ body {
 
 
 h1 {
-  margin-bottom: 0;
+  margin-bottom: 15px;
+  font-size: 54px;
+}
+
+h1 svg {
+  position: relative;
+  top: 10px;
 }
 
 h2 {
@@ -61,21 +67,6 @@ ul {
 li {
   font-size: 22px;
   line-height: 1.8;
-}
-
-/* Space hover effect! */
-.space {
-  filter: brightness(0);
-  transition: filter 250ms ease-in-out;
-}
-
-h1:hover .space {
-  filter: brightness(1);
-}
-
-h1:hover .space g,
-h1:hover .space text {
-  fill: url(#space);
 }
 
 .highlights {
