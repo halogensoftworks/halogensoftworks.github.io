@@ -172,6 +172,11 @@ hr.footer {
   color: purple;
 }
 
+.twitter-share-button {
+  float: right;
+  margin-top: 2px;
+}
+
 /* */
 
 @media screen and (max-width: 599px) {
@@ -183,6 +188,10 @@ hr.footer {
 
   video {
     margin-bottom: 30px;
+  }
+
+  .twitter-share-button {
+    margin-top: -55px;
   }
 
   li {
